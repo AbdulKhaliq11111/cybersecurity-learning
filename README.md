@@ -1,5 +1,10 @@
 # Cybersecurity Learning Journey
 
+🚀 Started on: December 2025  
+🎯 Goal: Paid cybersecurity internship / entry-level role  
+🧠 Platform: TryHackMe  
+⏱ Daily Time: 3 hours
+
 This repository documents my hands-on cybersecurity learning using TryHackMe.
 
 ## Day 1
