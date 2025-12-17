@@ -7,6 +7,8 @@
 
 This repository documents my hands-on cybersecurity learning using TryHackMe.
 
+
+
 ## Day 1
 - Platform: TryHackMe
 - Room: Introduction to Cyber Security
@@ -27,6 +29,28 @@ This repository documents my hands-on cybersecurity learning using TryHackMe.
   - HTTP methods (GET, POST, PUT, DELETE)
   - HTTP status codes (200, 403, 404, 500)
   - Client–server communication
+
+## Day 3
+- Platform: TryHackMe
+- Path: Pre Security
+
+### Linux Fundamentals (Part 1)
+- Topics Covered:
+  - Linux file system basics
+  - Common Linux commands (ls, cd, pwd, mkdir, rm)
+  - File permissions and users
+  - Understanding Linux directories
+- Status: Completed
+
+### Network Fundamentals
+- Topics Covered:
+  - OSI Model
+  - TCP/IP Model
+  - IP addressing & subnet basics
+  - Ports and protocols (TCP, UDP)
+  - DNS, DHCP, HTTP, HTTPS
+  - Networking security fundamentals
+- Status: Completed
 
 ## Goal
 To become job-ready in cybersecurity within 1 year and secure paid internships or entry-level roles.
