@@ -6,7 +6,9 @@
 ⏱ Daily Time: 3 hours
 
 ## Goal
-To become job-ready in cybersecurity within 1 year and secure paid internships or entry-level roles.
+To become job-ready in cybersecurity within 1 year by building strong
+foundations in Linux, networking, and security fundamentals, completing
+hands-on labs, and securing a paid internship or entry-level role.
 
 This repository documents my hands-on cybersecurity learning using TryHackMe.
 
@@ -17,6 +19,11 @@ This repository documents my hands-on cybersecurity learning using TryHackMe.
 - Networking fundamentals (OSI, TCP/IP, DNS, HTTP/HTTPS)
 - Web fundamentals and how websites work
 - Awareness of cybersecurity career paths
+
+## Hands-On Practice
+- Completed interactive labs on TryHackMe
+- Practiced Linux commands and file permissions in simulated environments
+- Analyzed basic web and network concepts through guided exercises
 
 
 ## Day 1
@@ -52,6 +59,7 @@ This repository documents my hands-on cybersecurity learning using TryHackMe.
   - File permissions and users
   - Understanding Linux directories
 - Status: Completed
+- Practice: Navigated directories, managed files, and modified permissions using Linux commands
 
 ### Network Fundamentals
 - Topics Covered:
@@ -67,3 +75,5 @@ This repository documents my hands-on cybersecurity learning using TryHackMe.
 - Day 1: Introduction to Cyber Security — Completed
 - Day 2: How The Web Works (DNS, HTTP) — Completed
 - Day 3: Linux Fundamentals (Part 1) & Network Fundamentals — Completed
+---
+📌 This repository is regularly updated as I continue my cybersecurity learning journey.
