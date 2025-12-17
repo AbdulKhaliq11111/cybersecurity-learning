@@ -10,6 +10,13 @@ To become job-ready in cybersecurity within 1 year and secure paid internships o
 
 This repository documents my hands-on cybersecurity learning using TryHackMe.
 
+## Skills Gained So Far
+- Understanding of offensive vs defensive security
+- Basic Linux command-line usage (ls, cd, pwd, mkdir, rm)
+- Linux file system and permissions basics
+- Networking fundamentals (OSI, TCP/IP, DNS, HTTP/HTTPS)
+- Web fundamentals and how websites work
+- Awareness of cybersecurity career paths
 
 
 ## Day 1
