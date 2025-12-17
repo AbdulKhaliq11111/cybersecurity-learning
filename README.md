@@ -1,138 +1,213 @@
-# Cybersecurity Learning Journey
+Cybersecurity Learning Log
 
-👋 Hi, I’m **MOHAMMED ABDUL KHALIQ**, a B.Tech student and aspiring cybersecurity professional. I am actively building strong foundations in cybersecurity through hands-on labs and practical learning, with the long-term goal of building a **high-growth, high-impact career in cybersecurity** and securing a **paid internship or entry-level role**.
+Hi, I’m Mohammed Abdul Khaliq.
+I’m a B.Tech graduate currently building my foundation in cybersecurity through consistent, hands-on practice.
 
----
+This repository is a personal learning log. It exists to document what I actually study and practice on a daily basis.
+My immediate goal is to secure a paid cybersecurity internship or entry-level role. Long-term, I aim to grow into higher-responsibility and higher-impact roles in the cybersecurity field.
 
-## 🎯 Career Objective
-To become job-ready in cybersecurity within **1 year** by developing strong fundamentals in **Linux, networking, and security concepts**, gaining hands-on experience through real-world labs, and securing a **paid cybersecurity internship or entry-level role** that serves as the foundation for a long-term, high-earning career in the cybersecurity domain.
+Everything written here reflects work I have already completed.
 
----
-
-## 🧠 Learning Platform & Commitment
-- **Platform:** TryHackMe  
-- **Daily Study Time:** ~3 hours  
-- **Learning Approach:** Hands-on labs, guided exercises, and practical implementation  
 
 ---
 
-## 🛠️ Technical Skills (Growing)
+Why I maintain this repository
 
-### Cybersecurity Fundamentals
-- Understanding of offensive and defensive security concepts
-- Awareness of common vulnerabilities and attack surfaces
-- Knowledge of cybersecurity domains, roles, and career paths
+To track my daily learning and progress
 
-### Linux
-- Linux file system structure
-- File and directory management
-- User and permission management
-- Common Linux commands: `ls`, `cd`, `pwd`, `mkdir`, `rm`, `chmod`
+To build strong fundamentals before moving to advanced topics
 
-### Networking
-- OSI and TCP/IP models
-- IP addressing and subnet basics
-- Ports and protocols (TCP, UDP)
-- DNS, DHCP, HTTP, HTTPS
-- Networking security fundamentals
+To stay consistent and accountable
 
-### Web Fundamentals
-- How websites work
-- Client–server architecture
-- HTTP requests and responses
-- Domain hierarchy and DNS resolution
+To demonstrate real effort instead of just certificates
+
+
 
 ---
 
-## 🔬 Hands-On Practice
-- Completed interactive cybersecurity labs on TryHackMe
-- Practiced Linux navigation, file handling, and permission management
-- Applied networking and web fundamentals through guided lab exercises
-- Reinforced theoretical concepts with practical, hands-on implementation
+Learning Platform & Routine
+
+Platform: TryHackMe
+
+Daily study time: ~3 hours
+
+Approach: Learn the concept → practice it → repeat
+
+Focus: Practical understanding over theory memorization
+
+
 
 ---
 
-## 📅 Learning Progress
+Skills I’m Currently Building
 
-### Day 1 — December 15, 2025
-**Platform:** TryHackMe  
-**Room:** Introduction to Cyber Security  
+Cybersecurity Fundamentals
 
-**Topics Covered:**
-- Offensive Security
-- Defensive Security
-- Cybersecurity career paths
-- Insecure bank transfer vulnerability  
+Understanding the difference between offensive and defensive security
 
-**Status:** ✅ Completed
+Awareness of common vulnerabilities and attack surfaces
 
----
+Familiarity with cybersecurity domains, roles, and career paths
 
-### Day 2
-**Platform:** TryHackMe  
-**Path:** Pre Security  
-**Room:** How The Web Works  
 
-**Topics Covered:**
-- DNS fundamentals
-- HTTP requests and responses
-- How websites function
-- Domain hierarchy  
+Linux Fundamentals
 
-**Status:** ✅ Completed
+Linux file system and directory structure
 
----
+File and directory management
 
-### Day 3
-**Platform:** TryHackMe  
-**Path:** Pre Security  
+User permissions and access control
 
-#### Linux Fundamentals (Part 1)
-**Topics Covered:**
-- Linux file system basics
-- Common Linux commands
-- File permissions and users
-- Understanding Linux directories  
+Commands practiced:
 
-**Practice Performed:**
-- Directory navigation
-- File management
-- Permission modification using Linux commands  
+ls, cd, pwd, mkdir, rm, chmod
 
-**Status:** ✅ Completed
 
-#### Network Fundamentals
-**Topics Covered:**
-- OSI Model
-- TCP/IP Model
-- IP addressing and subnet basics
-- Ports and protocols
-- DNS, DHCP, HTTP, HTTPS
-- Networking security fundamentals  
 
-**Status:** ✅ Completed
+Networking Fundamentals
+
+OSI model and TCP/IP model
+
+IP addressing and subnet basics
+
+Ports and protocols (TCP, UDP)
+
+DNS, DHCP, HTTP, HTTPS
+
+Introductory networking security concepts
+
+
+Web Fundamentals
+
+Client–server communication
+
+HTTP request and response flow
+
+How websites work internally
+
+Domain names and DNS resolution
+
+
 
 ---
 
-## 📈 Progress Summary
-- **Day 1:** Introduction to Cyber Security — Completed  
-- **Day 2:** Web Fundamentals (DNS, HTTP) — Completed  
-- **Day 3:** Linux Fundamentals (Part 1) & Network Fundamentals — Completed  
+Hands-On Practice
+
+Completed interactive, task-based labs on TryHackMe
+
+Practiced Linux commands directly inside terminal-based environments
+
+Applied networking and web concepts through guided lab exercises
+
+Focused on understanding why things work, not just completing tasks
+
+
 
 ---
 
-## 🚀 Future Learning & Career Focus
-- Advanced Linux Fundamentals (Part 2 and Part 3)
-- Windows Fundamentals and Windows Internals
-- SOC operations, Blue Team concepts, and defensive security
-- Automation and scripting using **Bash** and **Python**
-- Continuous hands-on practice to grow into higher-impact cybersecurity roles over time
+Daily Learning Log
+
+Day 1 — December 15, 2025
+
+Room: Introduction to Cyber Security
+
+What I learned:
+
+What offensive security looks like in real scenarios
+
+How defensive security works
+
+Different cybersecurity career paths
+
+Example of an insecure bank transfer vulnerability
+
+
+Status: Completed
+
 
 ---
 
-## 🔗 Profiles
-- **TryHackMe:** mdabdulkhaliq11
+Day 2 — December 16, 2025
+
+Path: Pre Security
+Room: How The Web Works
+
+What I learned:
+
+How DNS works
+
+How HTTP requests and responses function
+
+How websites are structured
+
+Domain hierarchy basics
+
+
+Status: Completed
+
 
 ---
 
-📌 *This repository is regularly updated as I continue my cybersecurity learning journey with a strong focus on hands-on practice, real-world skills, and long-term career growth in cybersecurity.*
+Day 3 — December 17, 2025
+
+Linux Fundamentals (Part 1)
+What I practiced:
+
+Navigating directories
+
+Creating and deleting files
+
+Understanding permissions
+
+Using common Linux commands
+
+
+Network Fundamentals
+What I learned:
+
+OSI and TCP/IP models
+
+IP addressing basics
+
+Common ports and protocols
+
+How DNS, DHCP, HTTP, and HTTPS work
+
+
+Status: Completed
+
+
+---
+
+What I’m Working On Next
+
+Linux Fundamentals (Part 2 and Part 3)
+
+Windows Fundamentals
+
+Windows Internals (basic level)
+
+SOC and Blue Team fundamentals
+
+Defensive security concepts
+
+Bash and Python scripting (beginner level)
+
+
+
+---
+
+Profile
+
+TryHackMe: https://tryhackme.com/p/mdabdulkhaliq11
+
+
+
+---
+
+Final Note
+
+This repository will keep evolving as I learn more.
+I only add entries after completing the work — not before.
+
+If you’re reviewing this as a recruiter, this repository reflects my current skill level, learning discipline, and commitment to building a career in cybersecurity.
