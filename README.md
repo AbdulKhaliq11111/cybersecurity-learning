@@ -1,4 +1,4 @@
-s# Cybersecurity Learning Journey
+# Cybersecurity Learning Journey
 
 🚀 Started on: December 2025  
 🎯 Goal: Paid cybersecurity internship / entry-level role  
@@ -52,6 +52,11 @@ This repository documents my hands-on cybersecurity learning using TryHackMe.
   - DNS, DHCP, HTTP, HTTPS
   - Networking security fundamentals
 - Status: Completed
+
+## Progress Summary
+- Day 1: Introduction to Cyber Security — Completed
+- Day 2: How The Web Works (DNS, HTTP) — Completed
+- Day 3: Linux Fundamentals (Part 1) & Network Fundamentals — Completed
 
 ## Goal
 To become job-ready in cybersecurity within 1 year and secure paid internships or entry-level roles.
