@@ -1,4 +1,4 @@
-# Cybersecurity Learning Journey
+s# Cybersecurity Learning Journey
 
 🚀 Started on: December 2025  
 🎯 Goal: Paid cybersecurity internship / entry-level role  
@@ -15,20 +15,21 @@ This repository documents my hands-on cybersecurity learning using TryHackMe.
 - Topics Covered:
   - Offensive Security
   - Defensive Security
-  - Using Gobuster to find hidden directories
-  - Understanding insecure bank transfer vulnerabilities
+  - Careers in Cyber Security
+  - Insecure bank transfer vulnerability
+- Status: Completed
 
 ## Day 2
 - Platform: TryHackMe
-- Rooms:
-  - How The Web Works (DNS in Detail)
-  - HTTP in Detail
+- Path: Pre Security
+
+### How The Web Works
 - Topics Covered:
-  - DNS hierarchy and record types
-  - How domain names are resolved
-  - HTTP methods (GET, POST, PUT, DELETE)
-  - HTTP status codes (200, 403, 404, 500)
-  - Client–server communication
+  - DNS basics
+  - HTTP requests & responses
+  - How websites work
+  - Domain hierarchy
+- Status: Completed
 
 ## Day 3
 - Platform: TryHackMe
