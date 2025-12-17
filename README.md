@@ -115,4 +115,24 @@ To become job-ready in cybersecurity within **1 year** by developing strong fund
 ---
 
 ## 📈 Progress Summary
-- **Day 1:** Introduction to Cyber Security — Completed
+- **Day 1:** Introduction to Cyber Security — Completed  
+- **Day 2:** Web Fundamentals (DNS, HTTP) — Completed  
+- **Day 3:** Linux Fundamentals (Part 1) & Network Fundamentals — Completed  
+
+---
+
+## 🚀 Future Learning & Career Focus
+- Advanced Linux Fundamentals (Part 2 and Part 3)
+- Windows Fundamentals and Windows Internals
+- SOC operations, Blue Team concepts, and defensive security
+- Automation and scripting using **Bash** and **Python**
+- Continuous hands-on practice to grow into higher-impact cybersecurity roles over time
+
+---
+
+## 🔗 Profiles
+- **TryHackMe:** mdabdulkhaliq11
+
+---
+
+📌 *This repository is regularly updated as I continue my cybersecurity learning journey with a strong focus on hands-on practice, real-world skills, and long-term career growth in cybersecurity.*
