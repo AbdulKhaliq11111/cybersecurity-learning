@@ -58,8 +58,8 @@ This repository documents my hands-on cybersecurity learning using TryHackMe.
   - Common Linux commands (ls, cd, pwd, mkdir, rm)
   - File permissions and users
   - Understanding Linux directories
-- Status: Completed
 - Practice: Navigated directories, managed files, and modified permissions using Linux commands
+- Status: Completed
 
 ### Network Fundamentals
 - Topics Covered:
