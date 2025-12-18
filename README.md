@@ -133,6 +133,30 @@ Through TryHackMe labs and exercises, I have:
 
 ---
 
+---
+
+### Day 4 — Windows Fundamentals (Completed)
+
+**What I studied:**
+- Windows operating system basics
+- User vs administrator roles
+- Windows security model and permissions
+- Importance of Windows in enterprise environments
+
+**What I practiced:**
+- Exploring Windows file system (system vs user folders)
+- Understanding how Windows protects critical system files
+- Reviewing Windows security-related settings conceptually
+
+**Security understanding:**
+- Learned why Windows is a major attack target
+- Understood the role of logs and permissions in detection
+- Started building a defender-focused mindset
+
+**Status:** Completed
+
+
+
 ## What I’m Working Toward Next
 
 - Linux Fundamentals (Part 2 & Part 3)  
