@@ -155,6 +155,28 @@ Through TryHackMe labs and exercises, I have:
 
 **Status:** Completed
 
+---
+
+### Day 5 — Security Operations Basics (Windows Event Logs)
+
+**What I studied:**
+- What system logs are and why operating systems generate them
+- Importance of Windows Event Logs in security monitoring
+- Types of activities recorded in Windows logs (logins, failures, system events)
+
+**What I practiced:**
+- Using Windows Event Viewer to explore system activity
+- Reviewing Security, Application, and System logs
+- Observing how login attempts are recorded in Security logs
+
+**Security understanding:**
+- Understood how defenders use logs to investigate incidents
+- Learned why failed login attempts are more important than successful ones
+- Realized how repeated failures can indicate brute-force or suspicious activity
+- Gained insight into why attackers try to hide or clear logs
+
+**Status:** Completed
+
 
 
 ## What I’m Working Toward Next
