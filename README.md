@@ -177,6 +177,26 @@ Through TryHackMe labs and exercises, I have:
 
 **Status:** Completed
 
+---
+
+### Day 6 — SOC Fundamentals (Logs, Alerts, and Incidents)
+
+**What I learned:**
+- Difference between logs, alerts, and incidents
+- How SOC teams filter large volumes of logs into meaningful alerts
+- How confirmed alerts become security incidents
+
+**Practical understanding:**
+- Used login failure scenarios to understand alert creation
+- Learned how context affects whether an event is normal or suspicious
+- Understood the importance of reducing false positives
+
+**Incident response basics:**
+- Identify, contain, investigate, remediate, recover, and learn
+- Importance of containment before deep investigation
+
+**Status:** Completed
+
 
 
 ## What I’m Working Toward Next
