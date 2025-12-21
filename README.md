@@ -198,6 +198,27 @@ Through TryHackMe labs and exercises, I have:
 **Status:** Completed
 
 
+---
+
+### Day 7 — Investigation Basics (Log Analysis Thinking)
+
+**What I learned:**
+- How security analysts investigate suspicious activity using logs
+- Difference between normal, unusual, and suspicious behavior
+- Importance of context and patterns during investigations
+
+**What I practiced:**
+- Reviewing Windows Security logs with an investigation mindset
+- Analyzing login patterns to decide severity
+- Deciding when to ignore, monitor, or escalate activity
+
+**Security thinking:**
+- Learned how analysts reduce false positives
+- Understood how investigation decisions lead to alerts or incidents
+- Improved judgment-based analysis rather than tool-based thinking
+
+**Status:** Completed
+
 
 ## What I’m Working Toward Next
 
