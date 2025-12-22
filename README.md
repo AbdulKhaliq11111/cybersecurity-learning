@@ -219,6 +219,26 @@ Through TryHackMe labs and exercises, I have:
 
 **Status:** Completed
 
+---
+
+### Day 8 — Investigation Practice & Interview Thinking
+
+**What I practiced:**
+- Analyzing login failure scenarios from an investigation perspective
+- Deciding whether activity should be treated as a log, alert, or incident
+- Structuring investigation explanations clearly and logically
+
+**Interview preparation:**
+- Practiced answering SOC-related interview questions calmly
+- Focused on explaining reasoning instead of memorizing answers
+- Improved clarity and confidence in security discussions
+
+**Security thinking:**
+- Learned how clear communication is critical in security roles
+- Understood how analysts justify decisions during investigations
+
+**Status:** Completed
+
 
 ## What I’m Working Toward Next
 
