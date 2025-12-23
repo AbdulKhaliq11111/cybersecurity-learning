@@ -240,6 +240,27 @@ Through TryHackMe labs and exercises, I have:
 **Status:** Completed
 
 
+---
+
+### Day 9 — End-to-End Incident Investigation
+
+**What I practiced:**
+- Analyzing Windows security logs to detect suspicious login patterns
+- Correlating failed and successful login attempts across time and IP addresses
+- Identifying when activity escalates from alert to confirmed incident
+
+**Investigation workflow:**
+- Detection of abnormal authentication behavior
+- Classification based on pattern, impact, and context
+- Investigation using additional log context
+- Decision-making for appropriate response actions
+
+**Professional documentation:**
+- Practiced summarizing incidents clearly and concisely
+- Focused on explaining what happened, why it mattered, and what action was taken
+
+**Status:** Completed
+
 ## What I’m Working Toward Next
 
 - Linux Fundamentals (Part 2 & Part 3)  
