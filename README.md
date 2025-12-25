@@ -261,6 +261,31 @@ Through TryHackMe labs and exercises, I have:
 
 **Status:** Completed
 
+---
+
+Day 10 — Professional Profile & Internship Readiness Setup
+
+What I built:
+
+• Created and optimized my GitHub profile README to professionally represent my cybersecurity learning journey  
+• Structured my profile to clearly show my skills, learning focus, and internship readiness  
+• Connected my learning log repository to my public profile for recruiter visibility  
+
+Internship preparation:
+
+• Built a professional Internshala resume profile  
+• Added cybersecurity-focused career objective  
+• Listed technical skills, labs, and learning progress  
+• Added GitHub and TryHackMe portfolio links  
+
+Career readiness:
+
+• Prepared myself for applying to cybersecurity internships confidently  
+• Learned how recruiters evaluate profiles and portfolios  
+• Improved clarity, professionalism, and presentation of my cybersecurity learning journey  
+
+Status: Completed
+
 ## What I’m Working Toward Next
 
 - Linux Fundamentals (Part 2 & Part 3)  
